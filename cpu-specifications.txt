@@ -1,6 +1,6 @@
 WHAT ARE THE CPU SPECIFICATIONS?
 
-[bob.zavala@medea gridding]: lscpu
+[@medea gridding]: lscpu
 Architecture:          x86_64
 CPU op-mode(s):        32-bit, 64-bit
 Byte Order:            Little Endian
@@ -30,5 +30,5 @@ bts nopl xtopology tsc_reliable nonstop_tsc eagerfpu pni pclmulqdq ssse3 fma cx1
 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 
 invpcid_single ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid xsaveopt 
 arat md_clear spec_ctrl intel_stibp flush_l1d arch_capabilities
-[bob.zavala@medea gridding]: 
+[@medea gridding]: 
 
